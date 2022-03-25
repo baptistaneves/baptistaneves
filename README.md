@@ -1,4 +1,4 @@
-### Olá, eu sou Baptista Neves, sou programador
+### Olá, eu sou Baptista Neves.
 
 <div>
   <a href="https://github.com/baptistaneves">
